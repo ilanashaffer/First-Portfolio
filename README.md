@@ -19,8 +19,8 @@ assets/images/cubes.png
 assets/images/horse.jpg  
 assets/images/Ilana_photo  
 assets/images/image-placeholder.png  
-
-
+  
+  
 Prerequisites:  
 Browser that supports html5
 
