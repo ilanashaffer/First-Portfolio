@@ -6,19 +6,19 @@ This is a website showcasing the bio, work, and contact information of a web dev
 
 Project files:
 
-Html files:  
-index.html  
-portfolio.html  
-contact.html  
+    Html files:  
+    index.html  
+    portfolio.html  
+    contact.html  
 
-CSS file:  
-assets/css/style.css  
+    CSS file:  
+    assets/css/style.css  
 
-Images:  
-assets/images/cubes.png  
-assets/images/horse.jpg  
-assets/images/Ilana_photo  
-assets/images/image-placeholder.png  
+    Images:  
+    assets/images/cubes.png  
+    assets/images/horse.jpg  
+    assets/images/Ilana_photo  
+    assets/images/image-placeholder.png  
 <br>
 Prerequisites:  
 Browser that supports html5
