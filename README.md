@@ -19,7 +19,7 @@ Project files:
     assets/images/horse.jpg  
     assets/images/Ilana_photo  
     assets/images/image-placeholder.png  
-<br>
+
 Prerequisites:  
 Browser that supports html5
 
