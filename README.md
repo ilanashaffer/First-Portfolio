@@ -6,6 +6,8 @@ This is a website showcasing the bio, work, and contact information of a web dev
 
 Built with:  
 Visual Studio Code
+HTML
+CSS
 
 Authors:  
 Ilana Shaffer
